@@ -100,6 +100,22 @@ Refer to the **User Guide PDF** for detailed setup instructions.
 
 ---
 
+## 📈 Backtest Results (Jan 2025 — May 2026)
+
+### ES (S&P 500 E-mini) — Cumulative Net Profit: **$44,000+**
+![ES Backtest](screenshots/es_backtest.png)
+
+### NQ (Nasdaq 100 E-mini) — Cumulative Net Profit: **$120,000+**
+![NQ Backtest](screenshots/nq_backtest.png)
+
+### MES (Micro S&P 500) — Cumulative Net Profit: **$5,100+**
+![MES Backtest](screenshots/mes_backtest.png)
+
+### MNQ (Micro Nasdaq 100) — Cumulative Net Profit: **$10,000+**
+![MNQ Backtest](screenshots/mnq_backtest.png)
+
+---
+
 ## 📞 Contact
 
 For licensing inquiries, custom development, or support:
